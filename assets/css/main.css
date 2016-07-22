@@ -1,0 +1,2 @@
+body {background-image: -webkit-linear-gradient(left top, rgb(52,115,26), rgb(144,181,78));}
+.info {width: calc(100vw - 10px); height:25em; min-width:200px; max-width: 600px; background-color: #fff; margin-top: 0px;}
