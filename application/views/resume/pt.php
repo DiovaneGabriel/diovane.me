@@ -174,8 +174,7 @@
 
 
 </div><!--// doc -->
-
-
+<script src="<?php echo js_url('google-analytics.js'); ?>"></script>
 </body>
 </html>
 
